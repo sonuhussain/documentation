@@ -27,7 +27,7 @@
     "react-github-btn": "1.2.0",
     "react-helmet": "6.1.0",
     "react-hook-form": "6.0.0-rc.1",
-    "react-simple-animate": "^3.3.12",
+    "react-simple-animate": "^3.5.2",
     "react-simple-img": "2.3.9",
     "react-sortablejs": "1.5.1",
     "sortablejs": "1.10.2"
