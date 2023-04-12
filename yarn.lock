@@ -1478,10 +1478,10 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@hookform/devtools@2.0.0-beta.1":
-  version "2.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/@hookform/devtools/-/devtools-2.0.0-beta.1.tgz#033c6a529c4fdc6abda4353668bdbaf91f08abf1"
-  integrity sha512-flOrzFPCOez9nQXvD4nh1nQzTQq2CAEbA3K4RPW3djeZrsrvvQbGq/zunef+DNViCTSvka0+VOXN0Cp2UF75eA==
+"@hookform/devtools@2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@hookform/devtools/-/devtools-2.2.1.tgz#2d88414d375199e193c2611b770b194b7752a623"
+  integrity sha512-VQh4kqwUOpz9LCDzIP0aJ4qnD/ob8Gp09L8gDy++9XtL66z6g8kbCynUvBrJm4qbCNdH0M7/Spm3AUjJqUuFlA==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@emotion/styled" "^10.0.27"
@@ -6075,15 +6075,6 @@ gatsby-graphiql-explorer@^1.14.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-image@3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.3.0.tgz#2efea64da55011710cd118ec0f6666a323e5be75"
-  integrity sha512-jO0wjMUbXNpvc2jItZ4YFFrXAhJBie9UvPjjgB43r22hpILMiVDpfLCwRLIXetgehOfrMkPtKF+3IbaK04pfVg==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    object-fit-images "^3.2.4"
-    prop-types "^15.7.2"
-
 gatsby-legacy-polyfills@^1.14.0:
   version "1.14.0"
   resolved "https://registry.yarnpkg.com/gatsby-legacy-polyfills/-/gatsby-legacy-polyfills-1.14.0.tgz#b633f8d5433a1545b09f736d89ee7a11371dde7a"
@@ -9699,11 +9690,6 @@ object-copy@^0.1.0:
     copy-descriptor "^0.1.0"
     define-property "^0.2.5"
     kind-of "^3.0.3"
-
-object-fit-images@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/object-fit-images/-/object-fit-images-3.2.4.tgz#6c299d38fdf207746e5d2d46c2877f6f25d15b52"
-  integrity sha512-G+7LzpYfTfqUyrZlfrou/PLLLAPNC52FTy5y1CBywX+1/FkxIloOyQXBmZ3Zxa2AWO+lMF0JTuvqbr7G5e5CWg==
 
 object-inspect@^1.11.0, object-inspect@^1.9.0:
   version "1.11.0"
