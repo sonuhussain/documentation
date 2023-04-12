@@ -30,7 +30,7 @@
     "react-simple-animate": "^3.3.12",
     "react-simple-img": "2.3.9",
     "react-sortablejs": "1.5.1",
-    "sortablejs": "1.10.2"
+    "sortablejs": "1.15.0"
   },
   "devDependencies": {
     "@types/react-helmet": "^6.1.1",
